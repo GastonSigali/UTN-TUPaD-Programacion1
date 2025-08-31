@@ -177,5 +177,3 @@ elif hemisferio == "s":
         print("Los datos ingresados son incorrectos")
 else:
     print("Los datos ingresados son incorrectos")
-
-
