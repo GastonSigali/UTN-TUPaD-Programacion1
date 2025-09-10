@@ -74,8 +74,7 @@ else:
         num = int(input("ERROR!!, Intente de nuevo \n Ingrese un nuevo numero: "))
         cont = cont + 1
     print("Felicitaciones!! el numero es el correcto!!",num)
-    print("La  cantidad de intentos:",cont
-    )
+    print("La  cantidad de intentos:",cont)
 
 # 6) Desarrolla un programa que imprima en pantalla todos los números pares comprendidos
 # entre 0 y 100, en orden decreciente.
